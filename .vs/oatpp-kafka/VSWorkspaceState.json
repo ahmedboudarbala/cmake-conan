@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "oatpp-kafka\\out\\build\\x64-Debug",
+      "oatpp-kafka\\out\\install\\x64-Debug"
+    ]
+  }
+}
